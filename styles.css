@@ -1,0 +1,46 @@
+bloque {
+  display: flex;
+}
+
+
+parrafo {
+  flex:  0 1 600px;
+  background-color: "red";
+}
+
+parrafo1 {
+  flex:  0 1 600px;
+}
+
+mang {
+  color: orange;
+
+}
+
+bloque{
+        resize: both;
+        overflow: auto;
+        display: grid;
+        background-color: red;
+        place-items: center;
+    }
+
+  mang1  {
+      color: white;
+    }
+
+mang2 {
+  color: orange;
+}
+
+h1 {
+  font-family:  Impact;
+}
+
+mang3 {
+  color:  #1ee8f5 ;
+}
+
+body {
+    background-color: black;
+}
